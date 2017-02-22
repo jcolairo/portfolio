@@ -1,0 +1,62 @@
+table {
+  height: 50px;
+}
+
+#overall {
+  display: block;
+}
+
+#employment table {
+  width: 350px;
+  text-align: center;
+  border: solid 1px #cfd2d6;
+  display: inline-block;
+  padding-bottom: 150px;
+}
+
+.employment-body {
+  padding: 0px;
+  text-align: center ;
+}
+
+.employment-default {
+  display: inline-block;
+}
+
+.employment-heading {
+  text-align: center;
+  padding: 5px;
+  background-color: #cfd2d6;
+}
+
+#education table{
+  text-align: center;
+  border: solid 1px #cfd2d6;
+  display: inline-block;
+}
+th, td{
+  text-align: center;
+}
+.education-body {
+  padding: 0px;
+  text-align: center ;
+}
+
+.education-default {
+  display: inline-block;
+}
+
+.education-heading {
+  text-align: center;
+  padding: 5px;
+  background-color: #cfd2d6;
+}
+.uni-body {
+  height: 50px;
+  width: 390px;
+}
+
+.school-body {
+  height: 90px;
+  width: 390px;
+}
