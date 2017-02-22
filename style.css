@@ -12,6 +12,7 @@ table {
   border: solid 1px #cfd2d6;
   display: inline-block;
   padding-bottom: 150px;
+  vertical-align: top;
 }
 
 .employment-body {
@@ -59,4 +60,21 @@ th, td{
 .school-body {
   height: 90px;
   width: 390px;
+}
+
+#education p {
+  text-align: center;
+}
+
+#education {
+  display: inline-block;
+}
+
+#employment {
+  display: inline-block;
+  vertical-align: top;
+}
+
+h1, h2, p {
+  text-align: center;
 }
